@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Mr. Crashaw to the Countess of Denbigh, against irresolution and delay in matters of religion.</title>
+            <author>Crashaw, Richard, 1613?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80776</idno>
+            <idno type="STC">Wing C6833</idno>
+            <idno type="STC">Thomason E220_2</idno>
+            <idno type="STC">ESTC R4046</idno>
+            <idno type="EEBO-CITATION">99872583</idno>
+            <idno type="PROQUEST">99872583</idno>
+            <idno type="VID">157885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 38:E220[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Mr. Crashaw to the Countess of Denbigh, against irresolution and delay in matters of religion.</title>
+                  <author>Crashaw, Richard, 1613?-1649.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: 23 London. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157885:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>A LETTER FROM M<hi rend="sup">r.</hi> CRASHAW to the Counteſs of DENBIGH,<lb/>
+Againſt Irreſolution and De<g ref="char:EOLhyphen"/>lay in matters of RELIGION.</p>
+            <p>
+               <date>
+                  <add>Sept: <gap reason="illegible: indecipherable" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </add>
+               </date>
+            </p>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:157885:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>Againſt Irreſolution and Delay in matters of RELIGION.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat Heav'n-beſieged Heart is this</l>
+               <l>Stands Trembling at the Gate of Bliſſe:</l>
+               <l>Holds faſt the Door, yet dares not venture</l>
+               <l>Fairly to open and to enter?</l>
+               <l>Whoſe Definition is, A Doubt</l>
+               <l>'Twixt Life and Death, 'twixt In and Out.</l>
+               <l>Ah! linger not, lov'd Soul: A ſlow</l>
+               <l>And late Conſent was a long No.</l>
+               <l>Who grants at laſt, a great while try'de,</l>
+               <l>And did his beſt to have Deny'de.</l>
+            </lg>
+            <lg>
+               <l>What Magick-Bolts, what my ſtick Barrs</l>
+               <l>Maintain the Will in theſe ſtrange Warrs?</l>
+               <l>What Fatall, yet fantaſtick, Bands</l>
+               <l>Keep the free Heart from his own Hands?</l>
+               <l>Say, lingring Fair, why comes the Birth</l>
+               <l>Of your brave Soul ſo ſlowly forth?</l>
+               <l>Plead your Pretences, (O you ſtrong</l>
+               <l>In weakneſſe) why you chuſe ſo long</l>
+               <l>In Labour of your ſelf to ly,</l>
+               <l>Not daring quite to Live nor Die.</l>
+            </lg>
+            <lg>
+               <l>So when the Year takes cold we ſee</l>
+               <l>Poor Waters their own Priſoners be:</l>
+               <l>Fetter'd and lock'd up faſt they lie</l>
+               <l>In a cold ſelf-captivity.</l>
+               <l>Th'aſtoniſh'd Nymphs their Floud's ſtrange Fate deplore,</l>
+               <l>To find themſelves their own ſeverer Shoar.</l>
+            </lg>
+            <lg>
+               <l>Love, that lends haſte to heavieſt things,</l>
+               <l>In you alone hath loſt his wings.</l>
+               <l>Look round and reade the World's wide face,</l>
+               <l>The field of Nature or of Grace;</l>
+               <l>Where can you fix, to find Excuſe</l>
+               <l>Or Pattern for the Pace you uſe?</l>
+               <l>Mark with what Faith Fruits anſwer Flowers,</l>
+               <l>And know the Call of Heav'n's kind ſhowers:</l>
+               <l>Each mindfull Plant haſts to make good</l>
+               <l>The hope and promiſe of his Bud.</l>
+               <l>
+                  <pb n="2" facs="tcp:157885:2"/>
+                  <!-- PDF PAGE 51 -->
+Seed-time's not all; there ſhould be Harveſt too.</l>
+               <l>Alas! and has the Year no Spring for you?</l>
+            </lg>
+            <lg>
+               <l>Both Winds and Waters urge their way,</l>
+               <l>And murmure if they meet a ſtay.</l>
+               <l>Mark how the curl'd Waves work and wind,</l>
+               <l>All hating to be left behind.</l>
+               <l>Each bigge with buſineſſe thruſts the other,</l>
+               <l>And ſeems to ſay, Make haſte, my Brother.</l>
+               <l>The aiery nation of neat Doves,</l>
+               <l>That draw the Chariot of chaſt Loves,</l>
+               <l>Chide your delay: yea thoſe dull things,</l>
+               <l>Whoſe wayes have leaſt to doe with wings,</l>
+               <l>Make wings at leaſt of their own Weight,</l>
+               <l>And by their Love controll their Fate.</l>
+               <l>So lumpiſh Steel, untaught to move,</l>
+               <l>Learn'd firſt his Lightneſſe by his Love.</l>
+            </lg>
+            <lg>
+               <l>What e're Love's matter be, he moves</l>
+               <l>By th'even wings of his own Doves,</l>
+               <l>Lives by his own Laws, and does hold</l>
+               <l>In groſſeſt Metalls his own Gold.</l>
+            </lg>
+            <lg>
+               <l>All things ſwear friends to Fair and Good,</l>
+               <l>Yea Suitours; Man alone is wo'ed,</l>
+               <l>Tediouſly wo'ed, and hardly wone:</l>
+               <l>Only not ſlow to be undone.</l>
+               <l>As if the Bargain had been driven</l>
+               <l>So hardly betwixt Earth and Heaven;</l>
+               <l>Our God would thrive too faſt, and be</l>
+               <l>Too much a gainer by't, ſhould we</l>
+               <l>Our purchaſ'd ſelves too ſoon beſtow</l>
+               <l>On him, who has not lov'dus ſo.</l>
+               <l>When love of Us call'd Him to ſee</l>
+               <l>If wee'd vouchſafe his company,</l>
+               <l>He left his Father's Court, and came</l>
+               <l>Lightly as a Lambent Flame,</l>
+               <l>Leaping upon the Hills, to be</l>
+               <l>The Humble King of You and Me.</l>
+               <l>Nor can the cares of his whole Crown</l>
+               <l>(When one poor Sigh ſends for him down)</l>
+               <l>Detain him, but he leaves behind</l>
+               <l>The late wings of the lazy Wind,</l>
+               <l>
+                  <pb n="3" facs="tcp:157885:3"/>
+                  <!-- PDF PAGE 52 -->
+Spurns the tame Laws of Time and Place,</l>
+               <l>And breaks through all ten Heav'ns to our embrace.</l>
+            </lg>
+            <lg>
+               <l>Yield to his Siege, wiſe Soul, and ſee</l>
+               <l>Your Triumph in his Victory.</l>
+               <l>Diſband dull Feares, give Faith the day:</l>
+               <l>To ſave your Life, kill your Delay.</l>
+               <l>'Tis Cowardiſe that keeps this Field;</l>
+               <l>And want of Courage not to Yield.</l>
+            </lg>
+            <lg>
+               <l>Yield then, O yield, that Love may win</l>
+               <l>The Fort at laſt, and let Life in.</l>
+               <l>Yield quickly, leſt perhaps you prove</l>
+               <l>Death's Prey, before the Prize of Love.</l>
+               <l>This Fort of your Fair Self if't be not wone,</l>
+               <l>He is repulſ'd indeed, but You'r undone.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
